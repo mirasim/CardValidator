@@ -6,16 +6,17 @@
 
 На тестирование затрачено: 1 часа
 
-В результате тестирования выявлены следующие дефекты: [Номера карт некоторых платежных систем не валидные](https://github.com/mirasim/KeyValidator/issues/2)
+В результате тестирования выявлены следующие дефекты: https://github.com/mirasim/CardValidator/issues/1
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 1. [netology-code
     /
-    javaqa-homeworks](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
-2. [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
-3. [Get Credit Card Numbers](https://www.getcreditcardnumbers.com/)
+    javaqa-homeworks - класс от разработчиков](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+2. [Проект с Исходным кодом](https://github.com/mirasim/CardValidator/blob/main/src/Main.java)
+3. [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
+4. [Get Credit Card Numbers](https://www.getcreditcardnumbers.com/)
 
 В качестве тестовых данных использовались данные [Get Credit Card Numbers](https://www.getcreditcardnumbers.com/):
 
